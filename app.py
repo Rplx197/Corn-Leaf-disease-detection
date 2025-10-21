@@ -342,7 +342,7 @@ def main():
     st.markdown(
         """
         <div style='text-align: center'>
-            <p>Dibuat dengan menggunakan Streamlit dan TensorFlow | Aplikasi Klasifikasi Penyakit Daun Jagung</p>
+            <p>Dibuat dengan menggunakan Streamlit | Aplikasi Klasifikasi Penyakit Daun Jagung</p>
         </div>
         """,
         unsafe_allow_html=True
