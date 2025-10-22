@@ -1,4 +1,4 @@
-# Aplikasi Deploy Model Klasifikasi Gambar
+# Klasifikasi Penyakit Daun Jagung Web-Based 
 
 Aplikasi Streamlit untuk deploy model deep learning (.h5) dengan fitur pemilihan model dan upload gambar.
 
@@ -13,7 +13,7 @@ Aplikasi Streamlit untuk deploy model deep learning (.h5) dengan fitur pemilihan
 
 1. Clone repository ini:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Rplx197/Corn-Leaf-disease-detection.git
     cd deploy-app
 
 2. Install dependencies:
