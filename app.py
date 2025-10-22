@@ -74,7 +74,7 @@ def load_custom_model(model_path):
         return model
     except Exception as e:
         st.error(f"Error loading model: {e}")
-        st.info("Pastikan file model ada di folder 'models/'")
+        st.info("Pastikan nama file sudah benar")
         return None
 
 # Fungsi untuk preprocess gambar TANPA OpenCV
